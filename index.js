@@ -4,7 +4,7 @@ let holiday='Fruhlingsfest';
 let days=21;
 
 function happyHolidays(){
-  return "Happy Holidays!";
+  return "Happy holidays!";
 }
 happyHolidays();
 
